@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @adriangonzalez-code
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# About Myself
 
-<!---
-adriangonzalez-code/adriangonzalez-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @adriangonzalez-code, I'm a Java and Angular Web Developer.
+👀 I’m interested in videogames, football soccer, guitar, listen music, read books and learn and share to knowlegde about developer technologies.
+🌱 I’m currently learning about microservices with Spring Boot.
+💞️ I’m looking to collaborate on AgileThought Company  
+
+📫 For more information about me, you visit [my professional portfolio](https://adriangonzalez-code.github.io/portfolio/portfolio/about-me)
