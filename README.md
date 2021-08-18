@@ -5,4 +5,4 @@
 🌱 I’m currently learning about microservices with Spring Boot.
 💞️ I’m looking to collaborate on AgileThought Company  
 
-📫 For more information about me, you visit [my professional portfolio](https://adriangonzalez-code.github.io/portfolio/portfolio/about-me)
+📫 For more information about me, you visit [my professional portfolio](https://adriangonzalez-code.github.io/portfolio)
